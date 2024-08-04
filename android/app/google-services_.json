@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074976253607",
+    "project_id": "ionic-e61a2",
+    "storage_bucket": "ionic-e61a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074976253607:android:7b362e8042fa9b1a379d82",
+        "android_client_info": {
+          "package_name": "com.splashnbubbles.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjocE03RTLgu-TxWxc5nqzJxGMumd11NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

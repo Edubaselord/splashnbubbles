@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72575175577",
+    "project_id": "splash-n-bubbles-cff45",
+    "storage_bucket": "splash-n-bubbles-cff45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72575175577:android:6041ce65ee34ee9c832108",
+        "android_client_info": {
+          "package_name": "com.splashnbubbles.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqq_94F7fk6tA8Vs35yG8-xFoyIrLw77I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
